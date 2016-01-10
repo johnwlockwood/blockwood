@@ -3,8 +3,13 @@ Categories = []
 Tags = []
 date = "2016-01-07T22:51:34-08:00"
 title = "inequality"
+draft = true
 
 +++
+
+# Inequality: from multiple sides
+
+### File this under cognitive therapy or think piece for now.
 
 Inequality. Inequality is what brings us together today. Let's examine the 
 pressures of inequality and perhaps pressures that could affect it. 
