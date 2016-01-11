@@ -54,3 +54,16 @@ Back in business. Next time I may just re-image the thing.
 
 -John
 
+#### update: Jan 10:
+
+Reboot the upgraded Pi so `systemd` and other things are properly launched.
+I ran into this issue when trying out the instructions from above upon this Pi.
+I got `Failed to get D-Bus connection: Unknown error -1` 
+when I ran `make add-services`. After a reboot, I tried that last step again
+and it worked. I also found a not needed step caused a problem and changed
+the [README](https://github.com/johnwlockwood/txnats/blob/master/example/pi-service/README.md) to deal with it.
+
+Now I can unplug one of the two Pis and still have services respond when publishing
+messages with [`make_requests.py`](https://github.com/johnwlockwood/txnats/blob/master/example/make_requests.py) 
+on my laptop. After plugging it back in, both will start responding again.
+
