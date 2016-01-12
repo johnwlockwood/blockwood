@@ -67,3 +67,15 @@ Now I can unplug one of the two Pis and still have services respond when publish
 messages with [`make_requests.py`](https://github.com/johnwlockwood/txnats/blob/master/example/make_requests.py) 
 on my laptop. After plugging it back in, both will start responding again.
 
+#### update: Ensuring service on bootup.
+
+In testing, I found it better to make the service exit immediatly upon
+failing to connect to a NATS server so the process manager can do 
+it's job and try restarting again. The system may not have the network
+completely connected by the time systemd starts the service, and this
+lets it try again later. After this, I could reliably power up the pi
+and have it responding quickly.
+
+<img src="https://storage.googleapis.com/blockwood-media/images/pi-unplugged.jpg" alt="Pi unplugged" style="width: 200px;" />
+<img src="https://storage.googleapis.com/blockwood-media/images/pi-lit.jpg" alt="Pi plugged" style="width: 200px;" />
+
