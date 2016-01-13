@@ -76,6 +76,8 @@ completely connected by the time systemd starts the service, and this
 lets it try again later. After this, I could reliably power up the pi
 and have it responding quickly.
 
+[The connect-or-die pull request](https://github.com/johnwlockwood/txnats/pull/22)
+
 <img src="https://storage.googleapis.com/blockwood-media/images/pi-unplugged.jpg" alt="Pi unplugged" style="width: 200px;" />
 <img src="https://storage.googleapis.com/blockwood-media/images/pi-lit.jpg" alt="Pi plugged" style="width: 200px;" />
 
