@@ -1,6 +1,6 @@
 +++
-Categories = []
-Tags = []
+Categories = ["IoT"]
+Tags = ["microservices", "IoT", "Internet of Things", "Raspberry Pi", "Cloud"]
 date = "2016-01-09T16:45:02-08:00"
 title = "Auto-run PyPy Service on Pi"
 draft = false
