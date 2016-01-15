@@ -67,7 +67,7 @@ NATS client in an evening.
 #### Clouds are not solid things.
 ##### There is a reason they're not called brick houses.
 
-![cloud](/storm-clipart-lightening-storm-cloud.png)
+![cloud](/images/storm-clipart-lightening-storm-cloud.png)
 
 NATS is a master piece. It's a text based TCP protocol, meaning
 you can easily read the commands being sent and received. It's trivial to 

@@ -81,7 +81,7 @@ NATS client in an evening.
 # Clouds are not solid things.
 
 
-![cloud](/storm-clipart-lightening-storm-cloud.png)
+![cloud](/images/storm-clipart-lightening-storm-cloud.png)
 
 <!--
 NATS is a master piece. It's a text based TCP protocol, meaning
