@@ -2,7 +2,7 @@
 Categories = []
 Tags = []
 date = "2016-01-30T11:29:15-08:00"
-title = "the arts"
+title = "The Arts and Creativity"
 
 +++
 
