@@ -37,7 +37,7 @@ form of dance. Their bodies so well trained, they have put in amazing practice
 and dedication to their craft. [Oakland Interfaith Gospel Choir](http://www.oigc.org/)
 demonstrated the power of harmonics. [San Jose Taiko](https://www.arts.gov/honors/heritage/fellows/roy-and-pj-hirabayashi) have
 created something that you have to witness to believe. Some how fusing Japanese
-drumming with culture from American and around the world.
+drumming with culture from America and around the world.
 
 What do the arts give you? How can development of creativity by our fellows
 help you and your loved ones?  How can your own recognition and integration 
